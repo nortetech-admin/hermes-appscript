@@ -1,0 +1,26 @@
+# === Python ===
+__pycache__/
+*.py[cod]
+*.so
+*.log
+
+# === Entornos virtuales ===
+venv/
+env/
+ENV/
+lib/
+lib64/
+pyvenv.cfg
+bin/
+Scripts/
+
+# === Archivos sensibles ===
+.env
+*.env
+
+# === Google Apps Script (si usas clasp) ===
+.clasp.json
+
+# === Archivos del sistema ===
+.DS_Store
+Thumbs.db
