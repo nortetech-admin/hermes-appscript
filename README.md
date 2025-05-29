@@ -38,7 +38,7 @@ Hermes relies on the field definitions and layout guidance from **Anexo 22** of 
 - Formats and types (numerical, alphanumeric)
 - Operation and regime codes (A1, EXD, etc.)
 
-📖 Learn more: [SAT - Reglas Generales de Comercio Exterior](https://www.sat.gob.mx/)
+📖 Learn more: [SAT - Reglas Generales de Comercio Exterior](https://drive.google.com/file/d/1RXPJYHlyFwSeY9gjEkQVmNc9_cYKAcod/view?usp=sharing)
 
 ---
 
